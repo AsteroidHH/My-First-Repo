@@ -3,3 +3,7 @@ add
 then commit
 then push
 
+Edit 1:
+have to add commit push after pushing before 
+
+
