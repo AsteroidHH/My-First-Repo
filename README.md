@@ -24,3 +24,6 @@ Github Edit
 
 Edit 7:
 New Branch creation
+
+Edit 8:
+New Branch mastermind creation
