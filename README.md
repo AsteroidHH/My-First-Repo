@@ -1,3 +1,4 @@
+
 Trial One of Git connected to Git Hub
 add
 then commit
@@ -21,4 +22,5 @@ Back to git
 Edit 6:
 Github Edit
 
-
+Edit 7:
+New Branch creation
