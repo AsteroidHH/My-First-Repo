@@ -1,4 +1,3 @@
-
 Trial One of Git connected to Git Hub
 add
 then commit
@@ -27,3 +26,7 @@ New Branch creation
 
 Edit 8:
 New Branch mastermind creation
+
+Edit 9:
+made DONTREADME.md file aswell
+
