@@ -35,3 +35,6 @@ Trying to merge and older file to the later one
 
 Edit 11:
 Trying to merge the older file to the latest one again because i think i didnt do it
+
+Trying out fetch because I already used pull learned the next topic by mistake.
+
