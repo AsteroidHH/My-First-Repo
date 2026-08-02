@@ -1,4 +1,3 @@
-
 Trial One of Git connected to Git Hub
 add
 then commit
@@ -24,3 +23,6 @@ Github Edit
 
 Edit 7:
 New Branch creation
+
+Edit 8:
+Trying out fetch because I already used pull learned the next topic by mistake.
