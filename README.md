@@ -34,6 +34,9 @@ Edit 10:
 Trying to merge and older file to the later one
 
 Edit 11:
+This not for the radio
+
+Edit 11:
 Trying to merge the older file to the latest one again because i think i didnt do it
 
 Edit 12:
