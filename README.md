@@ -40,6 +40,10 @@ Edit 11:
 Trying to merge the older file to the latest one again because i think i didnt do it
 
 Edit 12:
+Pull request
+
+
+Edit 12:
 Trial for -
 
 Edit 13:
