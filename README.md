@@ -54,3 +54,6 @@ Pull req?
 
 Edit 15:
 New branch 
+
+Edit 16:
+fetch for branches in local repository
